@@ -1,2 +1,2 @@
 # shortly
-A url shortener
+Demo url shortener
